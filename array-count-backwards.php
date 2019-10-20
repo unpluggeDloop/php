@@ -7,7 +7,6 @@ for($i=count($array_a)-1; $i>=0; $i--){
   $array_b[]=$array_a[$i];
 }
 
-
 echo "<pre>";
 print_r($array_b);
 echo "</pre>";
